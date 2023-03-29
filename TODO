@@ -1,0 +1,17 @@
+Todo:
+  ✔ Add wpm speed and mistake number to page @done(20-06-19 15:19)
+  ✔ Add localstorage and save all wpm speeds/mistakes and calculate average @done(20-06-20 19:08)
+  ✔ Add statistic graph @done(20-06-20 19:08)
+  ✘ Maybe save the mistake letters and show in the page. @cancelled(20-06-19 15:20)
+  ✔ Add footer @done(20-06-20 14:52)
+  ✔ Calculate speed when user press to first key @done(20-06-20 15:32)
+  ✔ Add total samples count and show in statistics section @done(20-06-21 14:04)
+  ✔ Light/Dark mode @done(20-06-21 16:12)
+  ✔ Add modal @done(20-06-21 16:12)
+  ✔ Add resize to word area @done(20-06-21 16:13)
+  ✔ Add mistake letter graph @done(20-07-12 22:05)
+  ✔ Add punctation option @done (20-07-13 12:39)
+  ✔ Add numeric practice option @done(20-07-18 01:14)
+  ☐ Look at the most wrong letters then generate words with most wrong letters
+  ☐ Databaseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  ☐ Publish
